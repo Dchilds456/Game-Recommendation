@@ -24,6 +24,8 @@ The following **additional** features are implemented:
 
 ## Schema
 
+### Login
+
 Here's a Schema for our data:
 
 
