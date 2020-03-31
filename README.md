@@ -27,9 +27,13 @@ The following **additional** features are implemented:
 Here's a Schema for our data:
 
 ### Login
-Property	Type	Despriction
-login_ID	String	Username for Login
-login_PW	String	Password for Login
+
+/***
+| __Property__ | __Type__  |       __Description__       |
+|--------------|-----------|-----------------------------|
+| login_ID     | String    | Username for Login          |
+| login_PW     | String    | Password for Login          |
+***/
 
 
 ## Video Walkthrough
