@@ -22,6 +22,11 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+## Schema
+
+Here's a Schema for our data:
+
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
