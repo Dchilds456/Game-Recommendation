@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Schema.jpg?raw=true' title='Schema' width='' alt='Schema' />
 
-<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Schema.jpg?raw=true' title='Schema' width='' alt='Schema' />
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Wireframes.jpg?raw=true' title='Wireframes' width='' alt='Wireframes' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
