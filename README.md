@@ -28,12 +28,10 @@ Here's a Schema for our data:
 
 ### Login
 
-/***
 | __Property__ | __Type__  |       __Description__       |
 |--------------|-----------|-----------------------------|
 | login_ID     | String    | Username for Login          |
 | login_PW     | String    | Password for Login          |
-***/
 
 
 ## Video Walkthrough
