@@ -24,9 +24,12 @@ The following **additional** features are implemented:
 
 ## Schema
 
-### Login
-
 Here's a Schema for our data:
+
+### Login
+Property	Type	Despriction
+login_ID	String	Username for Login
+login_PW	String	Password for Login
 
 
 ## Video Walkthrough
