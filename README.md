@@ -34,6 +34,26 @@ Here's a Schema for our data:
 | login_PW     | String    | Password for Login          |
 
 
+### Profile
+
+| __Property__ | __Type__  |            __Description__              |
+|--------------|-----------|-----------------------------------------|
+| profile_name | String    | Username for Login                      |
+| profile_image| File      | Image uploaded by user for profile      |
+| login_ID     | String    | users Login title                       |
+| NavBar       | Pointer   | Access to the rest of the application   |
+
+
+### Comments
+
+| __Property__ | __Type__  |            __Description__              |
+|--------------|-----------|-----------------------------------------|
+| comment      | String    | Users comment posted on the comment page|
+| com_rate     | number    | Rating User gives for the game          |
+| login_ID     | String    | users Login title                       |
+| NavBar       | Pointer   | Access to the rest of the application   |
+
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
