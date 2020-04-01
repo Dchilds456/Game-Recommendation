@@ -89,6 +89,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Networking
 
+* Login Screen
+  * (READ) Username and Password
+* New User Screen
+  * (CREATE) Create new User Account
+  * (READ) Data from user
+* Home Screen
+  * (READ) 
 
 
 
