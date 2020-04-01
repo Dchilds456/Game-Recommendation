@@ -56,11 +56,10 @@ Here's a Schema for our data:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a Wireframe of implemented user stories:
 
-<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Schema.jpg?raw=true' title='Schema' width='' alt='Schema' />
 
-<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Wireframes.jpg?raw=true' title='Wireframes' width='' alt='Wireframes' />
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Wireframes%20(Updated).jpg?raw=true' title='Wireframes' width='' alt='Wireframes' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
