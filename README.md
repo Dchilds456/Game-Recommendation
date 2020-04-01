@@ -1,5 +1,26 @@
 # Project 3 - *VGR-App*
 
+## Overview
+
+Description 
+
+VGR is a video game search app that allows the user to find released and upcoming video games that meet their criteria.
+
+App Evaluation 
+
+•	Category: Social networking/ Gaming
+
+•	Mobile: This app would be primarily developed for mobile but would perhaps be just as viable on a computer. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
+
+•	Story: User is able to select the genre of the game. It has the option to search either upcoming games or released games. User is able to Comment their thoughts on the game, as well as View comments from other users.
+
+•	Market: Any individual between the age of 14 and older could choose to use this app, and to keep it a safe environment, people would be organized into age groups.
+
+•	Habit: This app could be used as often or unoften as the user wanted depending on what new games that came out, and what exactly they're looking for to purchase
+
+•	Scope: First we would start with pairing people based on their game taste, then perhaps this could evolve into a game sharing application as well to broaden its usage.
+
+
 **VGR** is a video game search app that allows the user to find released and upcoming video games that meet their criteria.
 
 Time spent: **X** hours spent in total
