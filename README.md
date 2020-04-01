@@ -77,7 +77,7 @@ Here's a Schema for our data:
 | NavBar       | Pointer   | Access to the rest of the application   |
 
 
-## Video Walkthrough
+## Wireframe
 
 Here's a Wireframe of implemented user stories:
 
@@ -85,6 +85,12 @@ Here's a Wireframe of implemented user stories:
 <img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Wireframes%20(Updated).jpg?raw=true' title='Wireframes' width='' alt='Wireframes' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+### Networking
+
+
+
 
 ## Notes
 
