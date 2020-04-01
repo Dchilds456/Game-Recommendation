@@ -4,7 +4,7 @@
 
 Description 
 
-VGR is a video game search app that allows the user to find released and upcoming video games that meet their criteria.
+**VGR** is a video game search app that allows the user to find released and upcoming video games that meet their criteria.
 
 App Evaluation 
 
@@ -21,7 +21,7 @@ App Evaluation
 •	Scope: First we would start with pairing people based on their game taste, then perhaps this could evolve into a game sharing application as well to broaden its usage.
 
 
-**VGR** is a video game search app that allows the user to find released and upcoming video games that meet their criteria.
+
 
 Time spent: **X** hours spent in total
 
@@ -29,19 +29,21 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User is able to select the genre of the game
-- [ ] User is able to select the company from which the game is created
-- [ ] User can has the option to search either upcoming games or released games
-- [ ] User can order titles by rating, price, alphabet, etc.
-- [ ] User has the option to listen to video game music while using the app
-- [ ] User can has the option to search either upcoming games or released games
-- [ ] User can navigate through the titles resulting from the filtered search
-- [ ] The user is able to select any title and view more details on that page; along with a relative trailer.
-- [ ] User is able to Comment their thoughts on the game; as well as View comments from other users.
+- [ ]	User logs in and is greeted by a welcome screen
+- [ ]	User picks what their desired genre/rating/company/etc. 
+- [ ]	User sees a screen full of games sort of like Netflix
+- [ ]	Add a comment section to each post sort of like Instagram 
+- [ ]	Add price to each game
+- [ ]	Create a “coming soon” menu for unreleased games
+- [ ]	Settings (Accessibility, Notification, General, etc.)
+
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+-  [ ]	Video game music
+-  [ ]	Age Rating
+-  [ ]	Share button
+
 
 ## Schema
 
