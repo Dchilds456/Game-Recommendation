@@ -95,8 +95,20 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
   * (CREATE) Create new User Account
   * (READ) Data from user
 * Home Screen
-  * (READ) 
-
+  * (READ) Recommended Games, Trailer, etc.
+* Profile Screen
+  * (UPDATE) User Settings
+  * (READ) Query Logged in User
+* Reccomend Screen
+  * (READ) List of Reccomended Games
+* Trailer Screen
+  * (READ) Provided game Trailer
+  * (READ) Description of Title
+  * (READ) Review Rating for Title
+* Reviews Screen
+  * (CREATE) Create Review for Title
+  * (UPDATE) Update Reviews page for newer comments
+  * (DELETE) Delete submitted Review from comments page
 
 
 ## Notes
