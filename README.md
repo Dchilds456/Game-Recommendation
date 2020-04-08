@@ -29,7 +29,7 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ]	User logs in and is greeted by a welcome screen
+- [x]	User logs in and is greeted by a welcome screen
 - [ ]	User picks what their desired genre/rating/company/etc. 
 - [ ]	User sees a screen full of games sort of like Netflix
 - [ ]	Add a comment section to each post sort of like Instagram 
@@ -43,6 +43,19 @@ The following **additional** features are implemented:
 -  [ ]	Video game music
 -  [ ]	Age Rating
 -  [ ]	Share button
+
+
+## Video Walkthrough Milestone 1
+
+Here's are a couple of walkthroughs of Milestone 1:
+
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Parse%20Database%20Creation.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/VGR%20Milestone%201%20Walkthrough.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
 
 
 ## Schema
